@@ -23,9 +23,13 @@ The ninth digit gives the number of eights in the number
 The tenth digit gives the number of nines in the number</i>
 
 ## Rust solution
-This solution uses a brute-force approach and parallelism to achieve the result. Parallelism is achieved using [rayon](https://docs.rs/rayon/latest/rayon/).
+This solution uses a brute-force approach and parallelism to achieve the result<sup>*</sup>. Parallelism is achieved using [rayon](https://docs.rs/rayon/latest/rayon/).
 
 ## Answer
 ```
 6210001000
 ```
+
+> ©Aniket Maity 2024
+
+> \* Performance may vary depending on system.
