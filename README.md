@@ -1,5 +1,7 @@
 # 10-digit-number
-## The problem is as follows
+## Problem
+The Problem statement goes as follows:
+
 <i>Find a 10 digit number such that
 
 The first digit gives the number of zeros in the number
